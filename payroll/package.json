@@ -1,0 +1,10 @@
+{
+  "name": "payroll",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "(https://github.com/Luncher)",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.4.2"
+  }
+}
