@@ -1,0 +1,16 @@
+{
+  "name": "exception",
+  "version": "1.0.0",
+  "description": "# 2. format Error Message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-errors": "^1.6.1",
+    "i18n-2": "^0.7.0"
+  }
+}
